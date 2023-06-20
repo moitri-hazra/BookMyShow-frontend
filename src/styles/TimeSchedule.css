@@ -1,0 +1,14 @@
+.TS_heading {
+  width: 100%;
+  font-size: 22px;
+}
+
+.TS_main_container {
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+
+

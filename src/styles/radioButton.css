@@ -1,0 +1,42 @@
+.form-check-label.active {
+  background-color: rgba(0, 0, 255, 0.937);
+  font-weight: 600;
+  user-select: none;
+  letter-spacing: 0.5px;
+  border-radius: 1px;
+  cursor: pointer;
+  color: white;
+}
+
+.form-check-label.inactive {
+  user-select: none;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  opacity: 0.8;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.inactive:hover {
+  background-color: rgba(87, 151, 235, 0.94);
+  color: white;
+  opacity: 0.95;
+}
+
+.form-check-label {
+  padding: 10px 15px;
+  font-size: 18px;
+  border: 2px solid rgba(111, 63, 243, 0.77);
+  margin: 10px;
+}
+
+.text {
+  font-size: 17px;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .form-check-label {
+    margin: 5px;
+  }
+}
