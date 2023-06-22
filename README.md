@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# BOOK MY SHOW APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,6 +44,12 @@ Overall, our team successfully implemented a Book My Show app that allows users 
 4. Responsive Design
 
    ![image](https://github.com/moitri-hazra/BookMyShow-frontend/assets/109571491/1ac67e26-a028-4dc0-8881-2acc183c366c)
+
+
+### `LINKS` 
+
+1. Deployed Link --> https://bookmyshow-iwij.onrender.com/
+2. Live Server LInk --> https://bookmyshow-api.onrender.com/api/booking
 
 
 
